@@ -20,7 +20,7 @@ https://medium.com/@eric.perbos/how-to-win-a-kaggle-competition-in-data-science-
 https://github.com/legolas140/competitive-data-science-1 (COMPETETIVE DATA SCIENCE 2)
 https://www.kaggle.com/code/shivanirana63/guide-to-complete-statistical-analysis
 https://www.kaggle.com/code/saurav9786/statistics-for-data-scientists
-books.goalkicker.com/ (Important cs books like:-Programming,etc...)
+https://books.goalkicker.com/ (Important cs books like:-Programming,etc...)
 
 
 # COURSES
@@ -63,3 +63,9 @@ https://blog.jovian.ai/data-science-and-machine-learning-self-study-roadmap-94b6
 https://podtail.com/tr/podcast/machine-learning-street-talk/kaggle-ml-community-engineering-sanyam-bhutani/ (PODCASTS)
 https://www.listennotes.com/podcasts/chai-time-data-science-sanyam-bhutani-eEK0xNnO5VB/ (PODCASTS -> CHAI TIME DATA SCIENCE)
 https://sanyambhutani.com/ (SANYAM BHUTANI's BLOG WEBSITE)
+
+
+# DOWNLOADABLE RESOURCES WEBSITES (TRY TO OPEN THEM USING VPN(ADVISABLE))
+https://www.pdfdrive.com/
+https://thepiratebay.org/index.html
+http://libgen.is/
