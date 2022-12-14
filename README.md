@@ -50,3 +50,4 @@ https://parulpandey.com/ (PARUL -> KAGGLE GRANDMASTER)
 https://www.linkedin.com/posts/abhi1thakur_machinelearning-kaggle-python-activity-6849993200732528640-ATpI?trk=public_profile_like_view&originalSubdomain=in (ABHISHEK THAKUR -> KAGGLE GRANDMASTER)
 https://www.nvidia.com/en-us/ai-data-science/kaggle-grandmasters/
 https://ai-solutions.com/newsroom/about-us/news-multimedia/artificial-intelligence-and-the-future-of-space-exploration/
+https://init27.github.io/ (SANYAM BHUTANI)
