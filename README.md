@@ -3,6 +3,7 @@ https://elitedatascience.com/learn-statistics-for-data-science
 https://github.com/Developer-Y/cs-video-courses
 https://www.kaggle.com/competitions/tabular-playground-series-jan-2022/data
 https://365datascience.com/ (PAID RESOURCE)
+https://www.fellowship.ai/
 
 
 # IMPORTANT PROILES
@@ -33,8 +34,15 @@ https://www.coursera.org/specializations/mathematics-machine-learning (COURSERA)
 https://www.edx.org/course/mining-massive-datasets
 https://online.stanford.edu/courses/xfds110-introduction-statistics
 https://www.coursera.org/learn/stanford-statistics
+https://www.fast.ai/ (VERY IMPORTANT FOR DEEP LEARNING, COMPUTATIONAL ALGEBRA, etc...)
+http://oli.cmu.edu/independent-learner-courses/
+https://www.kaggle.com/getting-started/99621 (KAGGLE STATS AND PROBAB)
+https://www.kaggle.com/code/saurav9786/statistics-for-data-scientists (KAGGLE NOTEBOOK FOR STATS FOR DATA SCIENTIST)
+https://cognitiveclass.ai/courses/data-analysis-python
+https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/
 
 
+# RESEARCH PAPER WEBSTES(where research papers can be found) -> https://arxiv.org/
 
 
 # CONTESTS (To find where)
@@ -51,3 +59,7 @@ https://parulpandey.com/ (PARUL -> KAGGLE GRANDMASTER)
 https://www.linkedin.com/posts/abhi1thakur_machinelearning-kaggle-python-activity-6849993200732528640-ATpI?trk=public_profile_like_view&originalSubdomain=in (ABHISHEK THAKUR -> KAGGLE GRANDMASTER)
 https://www.nvidia.com/en-us/ai-data-science/kaggle-grandmasters/
 https://ai-solutions.com/newsroom/about-us/news-multimedia/artificial-intelligence-and-the-future-of-space-exploration/
+https://blog.jovian.ai/data-science-and-machine-learning-self-study-roadmap-94b645fa7277
+https://podtail.com/tr/podcast/machine-learning-street-talk/kaggle-ml-community-engineering-sanyam-bhutani/ (PODCASTS)
+https://www.listennotes.com/podcasts/chai-time-data-science-sanyam-bhutani-eEK0xNnO5VB/ (PODCASTS -> CHAI TIME DATA SCIENCE)
+https://sanyambhutani.com/ (SANYAM BHUTANI's BLOG WEBSITE)
