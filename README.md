@@ -10,6 +10,7 @@ https://www.fellowship.ai/
 https://sandeepgangarapu.com/
 https://www.kaggle.com/discussions/general/208906 (very important(Grandmaster))
 https://init27.github.io/ (SANYAM BHUTANI)
+https://aishgrt.wixsite.com/illuminate-ai/data-science-crash-course
 
 
 # IMPORTANT LINKS
