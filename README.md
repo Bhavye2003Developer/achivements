@@ -4,6 +4,7 @@ https://github.com/Developer-Y/cs-video-courses
 https://www.kaggle.com/competitions/tabular-playground-series-jan-2022/data
 https://365datascience.com/ (PAID RESOURCE)
 https://www.fellowship.ai/
+https://www.linkedin.com/feed/update/urn:li:activity:7011234006755135488/ (LINKEDIN POST FOR STATS)
 
 
 # IMPORTANT PROILES
