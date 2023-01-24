@@ -24,6 +24,11 @@ https://www.kaggle.com/code/shivanirana63/guide-to-complete-statistical-analysis
 https://www.kaggle.com/code/saurav9786/statistics-for-data-scientists
 https://books.goalkicker.com/ (Important cs books like:-Programming,etc...)
 
+# MEGA LINKS
+https://mega.nz/folder/3WhSkBjJ#YSDBnDegckd9-xSQ04W0qA --> anglela vyu
+https://mega.nz/folder/oLQR1Qqa#T8QhoC_tGNib8Igv9zAKSg --> coding ninjas
+https://mega.nz/folder/DVwhBIDC#Kj6Jg5_qZz_rE9XBR-Xvnw --> coding blocks
+
 
 # COURSES
 https://mega.nz/folder/oLQR1Qqa#T8QhoC_tGNib8Igv9zAKSg (UDEMY LINK)
