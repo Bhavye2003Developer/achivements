@@ -28,6 +28,7 @@ https://books.goalkicker.com/ (Important cs books like:-Programming,etc...)
 https://mega.nz/folder/3WhSkBjJ#YSDBnDegckd9-xSQ04W0qA --> anglela vyu
 https://mega.nz/folder/oLQR1Qqa#T8QhoC_tGNib8Igv9zAKSg --> coding ninjas
 https://mega.nz/folder/DVwhBIDC#Kj6Jg5_qZz_rE9XBR-Xvnw --> coding blocks
+https://mega.nz/folder/w8VHhSaY#fsM0AdXn8a3bRljWfJSdVg/folder/V58R3K7A --> Ethical Hacking
 
 
 # COURSES
