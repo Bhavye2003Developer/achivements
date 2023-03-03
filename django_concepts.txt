@@ -1,0 +1,24 @@
+for including static images, css files
+
+For project
+  Project/static/img or css/file -> Path
+  
+  in setting.py
+  STATICFILES_DIRS = [
+      os.path.join(BASE_DIR,'static'),
+  ]
+  STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+  in html
+    src or href -> {% static 'img/file' %}
+    
+    
+    
+ For App
+  Project/App/static/App/css or img/file -> Path
+  
+  STATICFILES_DIRS = [
+    os.path.join(BASE_DIR,'App','static'),
+]
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+  in html
+    src or href -> {% static 'App/img/file' %}
