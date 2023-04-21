@@ -77,3 +77,10 @@ https://sanyambhutani.com/ (SANYAM BHUTANI's BLOG WEBSITE)
 https://www.pdfdrive.com/
 https://thepiratebay.org/index.html
 http://libgen.is/
+
+
+
+Cyber Security
+LOGIN WITH bhavyedevelopment2003@gmail.com
+https://academy.tcm-sec.com/courses/1152300/lectures/24747405
+https://skillsforall.com/launch?id=7862b32f-0a49-4d7a-b881-498eb3be42cc -> Networking from cisco
